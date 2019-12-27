@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+	<Dictionary nameResId="@string/yiddish_dictionary" locale="yi" id="be3421b5-f9b4-45cc-b6e0-7ed10268fe77" type="binary_resource"
+	dictionaryResourceId="@array/yiddish_words_dict_array" autoTextResourceId="@xml/yi_autotext"
+	description="@string/yiddish_dictionary_description"/>
+</Dictionaries>
